@@ -18,16 +18,16 @@
     "vue": "^2.6.11"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.0.1",
-    "@vue/cli-plugin-eslint": "^3.0.1",
-    "@vue/cli-service": "^3.0.1",
-    "vue-template-compiler": "^2.5.17",
     "@babel/plugin-syntax-import-meta": "^7.8.3",
     "@babel/preset-env": "^7.9.0",
+    "@vue/cli-plugin-babel": "^3.0.1",
+    "@vue/cli-plugin-eslint": "^3.0.1",
+    "@vue/cli-service": "^3.12.1",
     "babel-eslint": "^10.1.0",
+    "copy-webpack-plugin": "^5.1.1",
     "eslint": "^6.8.0",
     "eslint-plugin-vue": "^5.2.3",
-    "copy-webpack-plugin": "^5.1.1"
+    "vue-template-compiler": "^2.5.17"
   },
   "eslintConfig": {
     "root": true,
